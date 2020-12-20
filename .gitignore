@@ -1,0 +1,6 @@
+/.idea
+*.iml
+/out
+/lib
+/build
+.DS_Store
